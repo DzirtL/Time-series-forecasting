@@ -4,3 +4,5 @@ runs - файлы с логами, по которым строились гра
 sequence_graphs - графики с временными рядами(просто для наглядности)
 train_dlinear.py, train_dlinear2.py, train_dlinear3.py, train_dlinear4.py - основные скрипты, соответствующие 1, 2, 3 и 4 этапам эксперимента соответственно согласно отчету
 dlinear_models.py - модели
+
+папки plots, runs и sequence_graphs можно найти в полном архиве по ссылке https://drive.google.com/file/d/1x_ktaCIN4pdovRQnhIg3uMraS91DDsvA/view?usp=sharing
